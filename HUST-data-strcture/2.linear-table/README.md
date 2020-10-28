@@ -35,11 +35,25 @@
 
 
 
+#### 第二次测试
+
+![second-test](./second-test.jpg)
+
+
+
+#### 扩展
+
 静态链表
 
 [线性表之静态链表](https://www.jianshu.com/p/b003c4475ed1)
 
 优点： 解决了线性储存结构，插入删除O(n)的耗时，改进为O(1);修改删除时直接修改游标即可
+
+
+
+其他常见的链表算法
+
+[链表算法经典十题总结](https://www.cnblogs.com/tojian/p/10055036.html)
 
 
 
