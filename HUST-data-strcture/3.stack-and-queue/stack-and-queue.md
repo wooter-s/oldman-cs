@@ -98,5 +98,33 @@ stack-and-queue
 
 
 
+![stack-queue-first-test](./stack-queue-first-test.jpg)
+
+#### 错误类型
+
+- [ ] 栈
+  - [x] 进出栈限制
+  - [x] 进出栈数据操作(可以在数组底部或者顶部开始， 然后++ 或者--进行操作)
+  - [ ] 链式栈，数据结构
+- [ ] 队列
+  - [ ] 链式队列数据结构
+  - [x] 链式队列空判断（带结点front==rear，不带结点front == null）
+
+
+
 ## 应用
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
