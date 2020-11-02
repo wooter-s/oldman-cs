@@ -96,9 +96,15 @@ stack-and-queue
 
 ## 纠错测试
 
-
+#### 第一次测试
 
 ![stack-queue-first-test](./stack-queue-first-test.jpg)
+
+
+
+#### 第二次测试
+
+![stack-queue-second-test](./stack-queue-second-test.jpg)
 
 #### 错误类型
 
@@ -110,7 +116,9 @@ stack-and-queue
   - [ ] 链式队列数据结构
   - [x] 链式队列空判断（带结点front==rear，不带结点front == null）
 
+### 扩展
 
+[前缀、中缀、后缀表达式](https://zhuanlan.zhihu.com/p/37467928)
 
 ## 应用
 
