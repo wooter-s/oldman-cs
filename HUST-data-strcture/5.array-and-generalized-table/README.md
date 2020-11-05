@@ -21,15 +21,20 @@
 - 广义表的概念
 - 广义表的存储结构
 
-## 名词解释
-
-
-
-## 知识点
-
 
 
 ## 纠错测试
+
+
+
+#### 第一次测试
+
+![array-and-generalized-table-first-test](./array-and-generalized-table-first-test.jpg)
+
+#### 错题
+
+- [x] 数组的元素不能增加或删除
+- [x] 特殊矩阵压缩后，对角、三对角和对称矩阵可以随机访问，三元组只能扫描访问，十字链表是顺序访问
 
 
 
