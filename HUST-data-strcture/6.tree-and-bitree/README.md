@@ -25,7 +25,11 @@ README
 
 ## 纠错测试
 
+![tree-and-bitree-first-test](/Users/dasouche/workspace/learn/oldman-cs/HUST-data-strcture/6.tree-and-bitree/tree-and-bitree-first-test.jpg)
 
+### 错题
+
+- [ ] 
 
 ## 应用
 
