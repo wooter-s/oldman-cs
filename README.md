@@ -32,6 +32,12 @@
 
 
 
+## 如何更好执行
+
+克服拖延症，focus on process， but no product
+
+
+
 ## 参考
 
 [五门cs基础课推荐](https://mp.weixin.qq.com/s/Yr5iKGtuW7mD3qURuN_jdg)
